@@ -75,7 +75,7 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
                         fit: BoxFit.cover,
                         placeholder: 'assets/images/placeholder.HEIC',
                         image:
-                            'https://source.unsplash.com/random/200x${355 + index}',
+                            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGD5d1oQ2yrJJOvLcbTf4U5H8cl0lV1ehUOA&s',
                       ),
                     ),
                   ),
